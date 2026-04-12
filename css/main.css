@@ -322,12 +322,12 @@ hr {
 
   .timeline_large {
     border-right: 1px solid #1B1B1B;
-    min-height: 450px;
+    min-height: 600px;
   }
 
   .timeline_medium {
     border-right: 1px solid #1B1B1B;
-    min-height: 400px;
+    min-height: 450px;
   }
 
   .timeline_short {
